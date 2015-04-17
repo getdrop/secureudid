@@ -13,8 +13,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "22EB0AEC1520A5D5008DB8C8"
-               BuildableName = "libSecureUDID.a"
+               BlueprintIdentifier = "87C192681AE1673F0009A2A0"
+               BuildableName = "SecureUDID.framework"
                BlueprintName = "SecureUDID"
                ReferencedContainer = "container:SecureUDID.xcodeproj">
             </BuildableReference>
@@ -48,6 +48,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "87C192681AE1673F0009A2A0"
+            BuildableName = "SecureUDID.framework"
+            BlueprintName = "SecureUDID"
+            ReferencedContainer = "container:SecureUDID.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>

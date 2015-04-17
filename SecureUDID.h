@@ -30,6 +30,12 @@
 
 #import <Foundation/Foundation.h>
 
+//! Project version number for SecureUDID.
+FOUNDATION_EXPORT double SecureUDIDVersionNumber;
+
+//! Project version string for SecureUDID.
+FOUNDATION_EXPORT const unsigned char SecureUDIDVersionString[];
+
 @interface SecureUDID : NSObject
 
 /*
